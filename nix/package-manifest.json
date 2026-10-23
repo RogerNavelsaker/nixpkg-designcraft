@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "designcraft",
+    "version": "0.12.0",
+    "tag": "v0.12.0",
+    "archive": "designcraft-0.12.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/designcraft/releases/download/v0.12.0/designcraft-0.12.0-linux-x86_64.tar.gz",
+    "hash": "sha256-Dnu+NJZw+NXrF4+pvUob8cfFHWpU4bgCuNzbsq5o/h0="
+  },
+  "package": {
+    "repo": "designcraft",
+    "version": "0.12.0"
+  },
+  "binary": {
+    "name": "designcraft"
+  },
+  "meta": {
+    "description": "Designcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/designcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
